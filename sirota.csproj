@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\2ae5892a-0f21-4253-9ed6-bc621b95b812.jfif" />
+    <None Remove="Images\back.png" />
+    <None Remove="Images\free-icon-avatar-6387915.png" />
+    <None Remove="Images\free-icon-padlock-25239.png" />
+    <None Remove="Images\glaz.png" />
+    <None Remove="Images\glaz_close.png" />
+    <None Remove="Images\glaz_open.png" />
+    <None Remove="Images\glaz_open1.png" />
+    <None Remove="Images\mail.png" />
+    <None Remove="Images\pass.png" />
+    <None Remove="Images\profile.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.12">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\2ae5892a-0f21-4253-9ed6-bc621b95b812.jfif" />
+    <Resource Include="Images\back.png" />
+    <Resource Include="Images\free-icon-avatar-6387915.png" />
+    <Resource Include="Images\free-icon-padlock-25239.png" />
+    <Resource Include="Images\glaz.png" />
+    <Resource Include="Images\glaz_close.png" />
+    <Resource Include="Images\glaz_open.png" />
+    <Resource Include="Images\glaz_open1.png" />
+    <Resource Include="Images\mail.png" />
+    <Resource Include="Images\pass.png" />
+    <Resource Include="Images\profile.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
+</Project>

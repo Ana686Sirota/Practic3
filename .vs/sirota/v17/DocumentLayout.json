@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\\u0421\u0438\u0440\u043E\u0442\u0430\\sirota\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3018EA6B-755C-4D58-A0F9-3D1FF08116C9}|sirota.csproj|c:\\users\\student\\desktop\\\u0441\u0438\u0440\u043E\u0442\u0430\\sirota\\windows\\registr.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3018EA6B-755C-4D58-A0F9-3D1FF08116C9}|sirota.csproj|solutionrelative:windows\\registr.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018EA6B-755C-4D58-A0F9-3D1FF08116C9}|sirota.csproj|c:\\users\\student\\desktop\\\u0441\u0438\u0440\u043E\u0442\u0430\\sirota\\windows\\registr.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3018EA6B-755C-4D58-A0F9-3D1FF08116C9}|sirota.csproj|solutionrelative:windows\\registr.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018EA6B-755C-4D58-A0F9-3D1FF08116C9}|sirota.csproj|c:\\users\\student\\desktop\\\u0441\u0438\u0440\u043E\u0442\u0430\\sirota\\windows\\window1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3018EA6B-755C-4D58-A0F9-3D1FF08116C9}|sirota.csproj|solutionrelative:windows\\window1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018EA6B-755C-4D58-A0F9-3D1FF08116C9}|sirota.csproj|c:\\users\\student\\desktop\\\u0441\u0438\u0440\u043E\u0442\u0430\\sirota\\windows\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3018EA6B-755C-4D58-A0F9-3D1FF08116C9}|sirota.csproj|solutionrelative:windows\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018EA6B-755C-4D58-A0F9-3D1FF08116C9}|sirota.csproj|c:\\users\\student\\desktop\\\u0441\u0438\u0440\u043E\u0442\u0430\\sirota\\windows\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3018EA6B-755C-4D58-A0F9-3D1FF08116C9}|sirota.csproj|solutionrelative:windows\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018EA6B-755C-4D58-A0F9-3D1FF08116C9}|sirota.csproj|c:\\users\\student\\desktop\\\u0441\u0438\u0440\u043E\u0442\u0430\\sirota\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3018EA6B-755C-4D58-A0F9-3D1FF08116C9}|sirota.csproj|solutionrelative:windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018EA6B-755C-4D58-A0F9-3D1FF08116C9}|sirota.csproj|c:\\users\\student\\desktop\\\u0441\u0438\u0440\u043E\u0442\u0430\\sirota\\classes\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018EA6B-755C-4D58-A0F9-3D1FF08116C9}|sirota.csproj|solutionrelative:classes\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registr.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u0421\u0438\u0440\u043E\u0442\u0430\\sirota\\Windows\\Registr.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\Registr.xaml.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u0421\u0438\u0440\u043E\u0442\u0430\\sirota\\Windows\\Registr.xaml.cs",
+              "RelativeToolTip": "Windows\\Registr.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADEAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:52:35.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u0421\u0438\u0440\u043E\u0442\u0430\\sirota\\Windows\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u0421\u0438\u0440\u043E\u0442\u0430\\sirota\\Windows\\Window1.xaml.cs",
+              "RelativeToolTip": "Windows\\Window1.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:52:27.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u0421\u0438\u0440\u043E\u0442\u0430\\sirota\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u0421\u0438\u0440\u043E\u0442\u0430\\sirota\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:51:06.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u0421\u0438\u0440\u043E\u0442\u0430\\sirota\\Classes\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Classes\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u0421\u0438\u0440\u043E\u0442\u0430\\sirota\\Classes\\AppDbContext.cs",
+              "RelativeToolTip": "Classes\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:07:25.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u0421\u0438\u0440\u043E\u0442\u0430\\sirota\\Windows\\Window1.xaml",
+              "RelativeDocumentMoniker": "Windows\\Window1.xaml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u0421\u0438\u0440\u043E\u0442\u0430\\sirota\\Windows\\Window1.xaml",
+              "RelativeToolTip": "Windows\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T06:27:04.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registr.xaml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u0421\u0438\u0440\u043E\u0442\u0430\\sirota\\Windows\\Registr.xaml",
+              "RelativeDocumentMoniker": "Windows\\Registr.xaml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u0421\u0438\u0440\u043E\u0442\u0430\\sirota\\Windows\\Registr.xaml",
+              "RelativeToolTip": "Windows\\Registr.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T06:26:57.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u0421\u0438\u0440\u043E\u0442\u0430\\sirota\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u0421\u0438\u0440\u043E\u0442\u0430\\sirota\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T06:26:01.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
